@@ -13,7 +13,8 @@
     "@tailwindcss/line-clamp": "^0.2.0",
     "axios": "^0.21.1",
     "firebase": "^8.6.3",
-    "firebase-admin": "^9.8.0",
+    "firebase-admin": "^9.9.0",
+    "micro": "^9.3.4",
     "next": "latest",
     "next-auth": "^3.24.0",
     "react": "17.0.1",
@@ -21,6 +22,7 @@
     "react-dom": "17.0.1",
     "react-redux": "7.2.2",
     "react-responsive-carousel": "^3.2.18",
+    "scoop": "^0.0.2",
     "scoop-stripe-cli": "https://github.com/stripe/scoop-stripe-cli.git",
     "stripe": "^8.154.0"
   },
