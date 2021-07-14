@@ -44,7 +44,7 @@ function Checkout() {
         <div className="flex-grow m-5 shadow-sm">
           <Image
             src="https://links.papareact.com/ikj"
-            width={1020}
+            width={1100}
             height={250}
             objectFit="contain"
           />

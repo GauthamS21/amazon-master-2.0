@@ -30,6 +30,7 @@
   "devDependencies": {
     "autoprefixer": "^10.2.5",
     "postcss": "^8.2.15",
+    "rewire": "^5.0.0",
     "tailwindcss": "^2.1.2"
   }
 }
