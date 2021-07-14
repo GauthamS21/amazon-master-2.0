@@ -22,7 +22,7 @@ function failed() {
             </div>
             <p className="text-center">
               If you see your money has cut out from your card then you chould
-              kill me!!! 🤣😂😂
+              kill me lol!!! 🤣😂😂
             </p>
             <button onClick={() => router.push("/")} className="button mt-5">
               Back to Home

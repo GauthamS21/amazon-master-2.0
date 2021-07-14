@@ -9,11 +9,11 @@
   "dependencies": {
     "@heroicons/react": "^1.0.1",
     "@reduxjs/toolkit": "1.5.0",
-    "@stripe/stripe-js": "^1.15.0",
+    "@stripe/stripe-js": "^1.16.0",
     "@tailwindcss/line-clamp": "^0.2.0",
     "axios": "^0.21.1",
     "firebase": "^8.6.3",
-    "firebase-admin": "^9.9.0",
+    "firebase-admin": "^9.10.0",
     "micro": "^9.3.4",
     "moment": "^2.29.1",
     "next": "latest",
@@ -25,7 +25,7 @@
     "react-responsive-carousel": "^3.2.18",
     "scoop": "^0.0.2",
     "scoop-stripe-cli": "https://github.com/stripe/scoop-stripe-cli.git",
-    "stripe": "^8.154.0"
+    "stripe": "^8.162.0"
   },
   "license": "MIT",
   "devDependencies": {

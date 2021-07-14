@@ -1,9 +1,9 @@
-import Header from "../components/Header";
 import { CheckCircleIcon } from "@heroicons/react/solid";
 import { useRouter } from "next/router";
 import Head from "next/head";
+import Header from "../components/Header";
 
-function seccess() {
+function success() {
   const router = useRouter();
   return (
     <>
@@ -37,4 +37,4 @@ function seccess() {
   );
 }
 
-export default seccess;
+export default success;
